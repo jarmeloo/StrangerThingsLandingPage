@@ -86,7 +86,4 @@ Durante esse projeto foram trabalhados conceitos como:
 
 ## 🧑‍💻 Autor
 
-###Johann Jarmelo
-
-* deixar mais “profissional” (pra recrutador)
-* ou mais “criativo/branding” (pra sua marca de roupa/portfólio)
+Johann Jarmelo
