@@ -1,4 +1,5 @@
 # 🎬 Stranger Things Experience - Landing Page
+---
 
 Uma landing page inspirada na experiência imersiva de **Stranger Things**, focada em criar uma interface visual impactante com animações suaves e uma estética fiel ao universo da série.
 
@@ -51,9 +52,7 @@ O projeto utiliza `<picture>` para adaptar imagens em diferentes tamanhos de tel
 
 Acesse diretamente pelo GitHub Pages:
 
-```bash
 https://seu-usuario.github.io/seu-repositorio/
-```
 
 Ou, se preferir rodar localmente:
 
