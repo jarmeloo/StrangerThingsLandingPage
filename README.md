@@ -51,7 +51,7 @@ O projeto utiliza `<picture>` para adaptar imagens em diferentes tamanhos de tel
 
 Acesse diretamente pelo GitHub Pages:
 
-https://seu-usuario.github.io/seu-repositorio/
+https://jarmeloo.github.io/StrangerThingsLandingPage/
 
 Ou, se preferir rodar localmente:
 
