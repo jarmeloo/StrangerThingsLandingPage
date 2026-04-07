@@ -1,5 +1,4 @@
 # 🎬 Stranger Things Experience - Landing Page
----
 
 Uma landing page inspirada na experiência imersiva de **Stranger Things**, focada em criar uma interface visual impactante com animações suaves e uma estética fiel ao universo da série.
 
