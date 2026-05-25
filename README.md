@@ -37,16 +37,6 @@ O foco principal está em:
 
 O projeto utiliza `<picture>` para adaptar imagens em diferentes tamanhos de tela, garantindo uma boa experiência tanto no mobile quanto no desktop.
 
-## 📁 Estrutura do projeto
-
-```bash
-📦 projeto
- ┣ 📂 imagens
- ┣ 📜 index.html
- ┣ 📜 style.css
- ┣ 📜 script.js
-```
-
 ## ⚙️ Como acessar o projeto
 
 Acesse diretamente pelo GitHub Pages:
