@@ -15,19 +15,18 @@
 
 ---
 
-# 🎬 Stranger Things Experience - Landing Page
-
-Uma landing page inspirada na experiência imersiva de **Stranger Things**, focada em criar uma interface visual impactante com animações suaves e uma estética fiel ao universo da série.
-
 ## 🚀 Sobre o projeto
 
-Este projeto é uma página web interativa que simula a divulgação da *Stranger Things: The Experience*.
-O foco principal está em:
+Uma landing page inspirada na experiência imersiva de **Stranger Things**, desenvolvida para recriar a atmosfera misteriosa e intensa da série por meio de animações suaves, efeitos visuais e uma interface moderna.
 
-* Experiência visual imersiva
-* Animações com scroll (GSAP)
-* Layout responsivo
-* Design moderno inspirado na série
+O projeto simula a divulgação da **Stranger Things: The Experience**, combinando design temático com interações dinâmicas para proporcionar uma experiência mais envolvente ao usuário.
+
+- Animações com scroll utilizando **GSAP**
+- Interface inspirada no universo da série
+- Layout responsivo
+- Efeitos visuais imersivos
+- Estrutura moderna de landing page
+- Experiência dinâmica e interativa
 
 ## 🧩 Tecnologias utilizadas
 
