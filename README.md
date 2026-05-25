@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:501313,100:E24B4A&height=200&section=header&text=Stranger%20Things%20Landing%20Page&fontSize=40&fontColor=ffffff&fontAlignY=38&descAlignY=58&descColor=a8d5a2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:8B0000&height=200&section=header&text=Stranger%20Things%20Landing%20Page&fontSize=40&fontColor=ffffff&fontAlignY=38&descAlignY=58&descColor=a8d5a2" />
 
 </div>
 
