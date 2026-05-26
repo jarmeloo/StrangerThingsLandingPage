@@ -15,6 +15,12 @@
 
 ---
 
+<p align="center">
+  <a href="#como-acessar-o-projeto">Visualizar Projeto</a>
+</p>
+  
+---
+
 ## 🚀 Sobre o projeto
 
 Uma landing page inspirada na experiência imersiva de **Stranger Things**, desenvolvida para recriar a atmosfera misteriosa e intensa da série por meio de animações suaves, efeitos visuais e uma interface moderna.
@@ -53,7 +59,7 @@ O projeto simula a divulgação da **Stranger Things: The Experience**, combinan
 
 O projeto utiliza `<picture>` para adaptar imagens em diferentes tamanhos de tela, garantindo uma boa experiência tanto no mobile quanto no desktop.
 
-## ⚙️ Como acessar o projeto
+<h2 id="como-acessar-o-projeto">⚙️ Como acessar o projeto</h2>
 
 Acesse diretamente pelo GitHub Pages:
 
