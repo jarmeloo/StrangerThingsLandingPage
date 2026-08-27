@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:8B0000&height=200&section=header&text=Stranger%20Things%20Landing%20Page&fontSize=40&fontColor=ffffff&fontAlignY=38&descAlignY=58&descColor=a8d5a2" />
-
 </div>
 
 <div align="center">
@@ -16,86 +14,82 @@
 ---
 
 <p align="center">
-  <a href="#como-acessar-o-projeto">Visualizar Projeto</a>
+  <a href="#how-to-access-the-project">View Project</a>
 </p>
-  
+
 ---
 
-## 🚀 Sobre o projeto
+## 🚀 About the project
 
-Uma landing page inspirada na experiência imersiva de **Stranger Things**, desenvolvida para recriar a atmosfera misteriosa e intensa da série por meio de animações suaves, efeitos visuais e uma interface moderna.
+A landing page inspired by the immersive **Stranger Things** experience, built to recreate the show's mysterious, intense atmosphere through smooth animations, visual effects, and a modern interface.
 
-O projeto simula a divulgação da **Stranger Things: The Experience**, combinando design temático com interações dinâmicas para proporcionar uma experiência mais envolvente ao usuário.
+The project simulates a promotional page for **Stranger Things: The Experience**, combining themed design with dynamic interactions to deliver a more engaging experience for the user.
 
-- Animações com scroll utilizando **GSAP**
-- Interface inspirada no universo da série
-- Layout responsivo
-- Efeitos visuais imersivos
-- Estrutura moderna de landing page
-- Experiência dinâmica e interativa
+- Scroll animations using **GSAP**
+- Interface inspired by the show's universe
+- Responsive layout
+- Immersive visual effects
+- Modern landing page structure
+- Dynamic, interactive experience
 
-## 🧩 Tecnologias utilizadas
+## 🧩 Technologies used
 
 * **HTML**
 * **CSS**
 * **JavaScript**
 * **GSAP (GreenSock)**
-
   * ScrollTrigger
   * ScrollSmoother
   * SplitText
 
-## 🎨 Funcionalidades
+## 🎨 Features
 
-* 🔥 Hero section com imagens responsivas
-* 🎯 Botões interativos (call-to-action)
-* 🌍 Seção de cidades com cards
-* 🧠 Depoimentos simulando reviews
-* 📜 Lista de cidades onde a experiência já aconteceu
-* 🎬 Animações de texto e scroll suave
-* ⏳ Preloader animado com SVG
+* 🔥 Hero section with responsive images
+* 🎯 Interactive buttons (call-to-action)
+* 🌍 Cities section with cards
+* 🧠 Testimonials simulating reviews
+* 📜 List of cities where the experience has taken place
+* 🎬 Text animations and smooth scrolling
+* ⏳ Animated SVG preloader
 
-## 📱 Responsividade
+## 📱 Responsiveness
 
-O projeto utiliza `<picture>` para adaptar imagens em diferentes tamanhos de tela, garantindo uma boa experiência tanto no mobile quanto no desktop.
+The project uses `<picture>` to adapt images to different screen sizes, ensuring a smooth experience on both mobile and desktop.
 
-<h2 id="como-acessar-o-projeto">⚙️ Como acessar o projeto</h2>
+<h2 id="how-to-access-the-project">⚙️ How to access the project</h2>
 
-Acesse diretamente pelo GitHub Pages:
+Access it directly via GitHub Pages:
 
 https://jarmeloo.github.io/StrangerThingsLandingPage/
 
-Ou, se preferir rodar localmente:
+Or, if you'd rather run it locally:
 
-1. Clone o repositório:
-
+1. Clone the repository:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/your-username/your-repository.git
 ```
 
-2. Abra o arquivo:
-
+2. Open the file:
 ```bash
 index.html
 ```
-3. Ou use uma extensão tipo **Live Server** no VS Code
 
+3. Or use an extension like **Live Server** in VS Code
 
-## 💡 Inspiração
+## 💡 Inspiration
 
-Baseado na experiência oficial:
+Based on the official experience:
 👉 [https://strangerthings-experience.com/](https://strangerthings-experience.com/)
 
+## 🧠 Takeaways
 
-## 🧠 Aprendizados
+This project involved working with concepts such as:
 
-Durante esse projeto foram trabalhados conceitos como:
+* DOM manipulation
+* Advanced animations with GSAP
+* Scroll animation performance
+* Structuring modern landing pages
 
-* Manipulação de DOM
-* Animações avançadas com GSAP
-* Performance em animações de scroll
-* Estruturação de landing pages modernas
-
-## 🧑‍💻 Autor
+## 🧑‍💻 Author
 
 Johann Jarmelo
